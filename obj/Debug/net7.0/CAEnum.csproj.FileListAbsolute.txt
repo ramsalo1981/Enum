@@ -1,0 +1,14 @@
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAEnum\bin\Debug\net7.0\CAEnum.exe
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAEnum\bin\Debug\net7.0\CAEnum.deps.json
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAEnum\bin\Debug\net7.0\CAEnum.runtimeconfig.json
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAEnum\bin\Debug\net7.0\CAEnum.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAEnum\bin\Debug\net7.0\CAEnum.pdb
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAEnum\obj\Debug\net7.0\CAEnum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAEnum\obj\Debug\net7.0\CAEnum.AssemblyInfoInputs.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAEnum\obj\Debug\net7.0\CAEnum.AssemblyInfo.cs
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAEnum\obj\Debug\net7.0\CAEnum.csproj.CoreCompileInputs.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAEnum\obj\Debug\net7.0\CAEnum.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAEnum\obj\Debug\net7.0\refint\CAEnum.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAEnum\obj\Debug\net7.0\CAEnum.pdb
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAEnum\obj\Debug\net7.0\CAEnum.genruntimeconfig.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAEnum\obj\Debug\net7.0\ref\CAEnum.dll
